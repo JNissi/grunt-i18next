@@ -1,15 +1,15 @@
 {
-  "name": "grunt-contrib-i18next",
+  "name": "grunt-i18next",
   "description": "Bundle language resource files for i18next.",
   "version": "0.0.1",
-  "homepage": "https://github.com/sabarasaba/grunt-contrib-i18next",
+  "homepage": "https://github.com/JNissi/grunt-i18next",
   "author": {
     "name": "Ignacio Rivas",
     "url": "http://github.com/sabarasaba"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sabarasaba/grunt-contrib-i18next.git"
+    "url": "git://github.com/jnissi/grunt-i18next.git"
   },
   "bugs": {
     "url": "https://github.com/sabarasaba/grunt-contrib-i18next/issues"
